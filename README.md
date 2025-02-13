@@ -54,3 +54,5 @@ A simple, all-in-one script to install and configure a **FreeBSD** desktop envir
    ```sh
    git clone https://github.com/TavahinAfshin/FreeBSD-Desktop-Environment-Installer.git
    cd FreeBSD-Desktop-Installer
+   sh freebsd-desktop-installer.sh
+   ```
